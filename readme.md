@@ -1,4 +1,4 @@
-# Obey project is a a test automation project.
+# Optiim Ebay project is a a test automation project.
 
 ## What is the content of the project
 1. Visit https://www.ebay.com/
